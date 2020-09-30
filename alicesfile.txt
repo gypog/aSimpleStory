@@ -1,1 +1,3 @@
 this is a text file
+
+edit: i like writing
